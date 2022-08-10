@@ -1,2 +1,1 @@
-# .github
-Default community health files
+Default [community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for [opencl-go](https://github.com/opencl-go) on GitHub.
